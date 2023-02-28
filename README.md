@@ -1,3 +1,3 @@
 # WebProg
 
-Merhaba bu benim ilk programım
+Not defteri üzerinden ilk değişiklik
